@@ -1,1 +1,2 @@
-this us line from the main
+i want do do a conflict
+Hello from main
